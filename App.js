@@ -3,21 +3,21 @@ import { StyleSheet, Text, View, ScrollView } from "react-native";
 import Navbar from "./Navbar";
 import Card from "./Card";
 import PropertyList from "./listings.json";
+import { NavigationContainer } from "@react-navigation/native";
 
 export default function App() {
   return (
-    <ScrollView>
-      <View style={styles.container}>
-        <Navbar title={"Eden Spaces"} />
-        {PropertyList.map((item, index) => (
-          <Card
-            key={index}
-            payload={item}
-          />
-        ))}
-      </View>
-      <StatusBar style="auto" />
-    </ScrollView>
+    <NavigationContainer>
+      <ScrollView>
+        <View style={styles.container}>
+          <Navbar title={"Eden Spaces"} />
+          {PropertyList.map((item, index) => (
+            <Card key={index} payload={item} />
+          ))}
+        </View>
+        <StatusBar style="auto" />
+      </ScrollView>
+    </NavigationContainer>
   );
 }
 
