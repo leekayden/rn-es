@@ -12,11 +12,7 @@ export default function App() {
         {PropertyList.map((item, index) => (
           <Card
             key={index}
-            title={item.title}
-            description={item.description}
-            imgUrl={
-              "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1"
-            }
+            payload={item}
           />
         ))}
       </View>

@@ -1,35 +1,40 @@
 import React from "react";
 import { View, Text, Image, StyleSheet } from "react-native";
-import ThreeColumnComponent from "./ThreeColumnComponent";
 import Button from "./Button";
+import { Listing } from "./listing";
 
 interface CardProps {
-  title: string;
-  description: string;
-  imgUrl: string;
+  payload: Listing;
 }
 
-const Card = ({ title, description, imgUrl }: CardProps) => {
+const Card = ({ payload }: CardProps) => {
   return (
     <View style={styles.container}>
       <View style={styles.imageTitleContainer}>
         <Image
           source={{
-            uri: imgUrl,
+            uri: payload.images[0],
           }}
           style={styles.image}
         />
-        <Text style={styles.title}>
-          {title}
-          {"\n"}
-        </Text>
-        <Text style={styles.street}>123 Test Street</Text>
+        <View style={styles.textContainer}>
+          <Text style={styles.title}>{payload.title}</Text>
+          <Text style={styles.street}>{payload.address}</Text>
+        </View>
       </View>
-      <ThreeColumnComponent />
-      <Button
-        title={"View"}
-        onPress={() => console.log('')}
-      ></Button>
+      <View style={styles.panelContainer}>
+        <View style={styles.panelColumn}>
+          <Text style={styles.panelLabel}>S$ {payload.price}/mo</Text>
+        </View>
+        <View style={styles.panelColumn}>
+          <Text style={styles.panelLabel}>{payload.mrt}</Text>
+        </View>
+        <View style={styles.panelColumn}>
+          <Text style={styles.panelLabel}>{payload.roomType}</Text>
+        </View>
+      </View>
+      <Text>{"\n"}</Text>
+      <Button title={"View"} onPress={() => console.log("")} />
     </View>
   );
 };
@@ -62,7 +67,9 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   street: {
-    fontSize: 24,
+    fontSize: 16,
+    fontWeight: "700",
+    color: "rgba(0, 0, 0, 0.6)",
   },
   description: {
     fontSize: 14,
@@ -71,6 +78,29 @@ const styles = StyleSheet.create({
   panel: {
     backgroundColor: "#000",
     borderRadius: 10,
+  },
+  panelContainer: {
+    backgroundColor: "#f2f2f2",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 20,
+    width: "100%",
+  },
+  panelColumn: {
+    flex: 1,
+    alignItems: "center",
+  },
+  panelLabel: {
+    fontSize: 20,
+    marginTop: 8,
+    marginBottom: 8,
+    textAlign: "center",
+    verticalAlign: "middle",
+  },
+  textContainer: {
+    flexDirection: "column",
   },
 });
 
