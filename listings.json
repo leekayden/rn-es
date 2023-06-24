@@ -1,0 +1,861 @@
+[
+    {
+      "id": "2aed4d11-9369-4b22-b37c-b6cd40e0eced",
+      "code": "IR1002R4",
+      "title": "Sweet Home",
+      "description": "Welcome to Sweet Home! This cozy and stylish home in Alabama offers a comfortable stay for up to 2 guests. Relax by the pool, enjoy a soak in the hot tub, or unwind in the sauna. With free parking and Wi-Fi, your stay here will be a sweet experience.",
+      "images": [
+        "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1",
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-cap.jpg"
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bishan",
+      "address": "1234 Main St",
+      "price": 250,
+      "numOfGuests": 2,
+      "numOfBeds": 1,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["pool", "hot tub", "sauna", "free parking", "free wifi"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fcb2689-2074-4f2a-ae6d-5279a320a78a",
+      "code": "IR1002R4",
+      "title": "Cozy Cabin",
+      "description": "Escape to the Cozy Cabin in the picturesque surroundings of Alaska. This charming cabin features a fireplace to keep you warm during chilly nights and offers a stunning mountain view. Bring your furry friend along as it is pet-friendly. Free parking is available for your convenience.",
+      "images": [
+        "https://media.istockphoto.com/id/187062976/photo/generic-home-for-sale.jpg?s=170667a&w=0&k=20&c=jBiF6OePDiHy_EUT6RZvrelr63aJoG32LgEv0uF4wM4="
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bayfront",
+      "address": "5678 Pine Rd",
+      "price": 180,
+      "numOfGuests": 4,
+      "numOfBeds": 2,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["fireplace", "mountain view", "pet-friendly", "free parking"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2aed4d11-9369-4b22-b37c-b6cd40e0eced",
+      "code": "IR1002R4",
+      "title": "Sweet Home",
+      "description": "Welcome to Sweet Home! This cozy and stylish home in Alabama offers a comfortable stay for up to 2 guests. Relax by the pool, enjoy a soak in the hot tub, or unwind in the sauna. With free parking and Wi-Fi, your stay here will be a sweet experience.",
+      "images": [
+        "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1",
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-cap.jpg"
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bishan",
+      "address": "1234 Main St",
+      "price": 250,
+      "numOfGuests": 2,
+      "numOfBeds": 1,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["pool", "hot tub", "sauna", "free parking", "free wifi"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fcb2689-2074-4f2a-ae6d-5279a320a78a",
+      "code": "IR1002R4",
+      "title": "Cozy Cabin",
+      "description": "Escape to the Cozy Cabin in the picturesque surroundings of Alaska. This charming cabin features a fireplace to keep you warm during chilly nights and offers a stunning mountain view. Bring your furry friend along as it is pet-friendly. Free parking is available for your convenience.",
+      "images": [
+        "https://media.istockphoto.com/id/187062976/photo/generic-home-for-sale.jpg?s=170667a&w=0&k=20&c=jBiF6OePDiHy_EUT6RZvrelr63aJoG32LgEv0uF4wM4="
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bayfront",
+      "address": "5678 Pine Rd",
+      "price": 180,
+      "numOfGuests": 4,
+      "numOfBeds": 2,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["fireplace", "mountain view", "pet-friendly", "free parking"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2aed4d11-9369-4b22-b37c-b6cd40e0eced",
+      "code": "IR1002R4",
+      "title": "Sweet Home",
+      "description": "Welcome to Sweet Home! This cozy and stylish home in Alabama offers a comfortable stay for up to 2 guests. Relax by the pool, enjoy a soak in the hot tub, or unwind in the sauna. With free parking and Wi-Fi, your stay here will be a sweet experience.",
+      "images": [
+        "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1",
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-cap.jpg"
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bishan",
+      "address": "1234 Main St",
+      "price": 250,
+      "numOfGuests": 2,
+      "numOfBeds": 1,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["pool", "hot tub", "sauna", "free parking", "free wifi"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fcb2689-2074-4f2a-ae6d-5279a320a78a",
+      "code": "IR1002R4",
+      "title": "Cozy Cabin",
+      "description": "Escape to the Cozy Cabin in the picturesque surroundings of Alaska. This charming cabin features a fireplace to keep you warm during chilly nights and offers a stunning mountain view. Bring your furry friend along as it is pet-friendly. Free parking is available for your convenience.",
+      "images": [
+        "https://media.istockphoto.com/id/187062976/photo/generic-home-for-sale.jpg?s=170667a&w=0&k=20&c=jBiF6OePDiHy_EUT6RZvrelr63aJoG32LgEv0uF4wM4="
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bayfront",
+      "address": "5678 Pine Rd",
+      "price": 180,
+      "numOfGuests": 4,
+      "numOfBeds": 2,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["fireplace", "mountain view", "pet-friendly", "free parking"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2aed4d11-9369-4b22-b37c-b6cd40e0eced",
+      "code": "IR1002R4",
+      "title": "Sweet Home",
+      "description": "Welcome to Sweet Home! This cozy and stylish home in Alabama offers a comfortable stay for up to 2 guests. Relax by the pool, enjoy a soak in the hot tub, or unwind in the sauna. With free parking and Wi-Fi, your stay here will be a sweet experience.",
+      "images": [
+        "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1",
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-cap.jpg"
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bishan",
+      "address": "1234 Main St",
+      "price": 250,
+      "numOfGuests": 2,
+      "numOfBeds": 1,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["pool", "hot tub", "sauna", "free parking", "free wifi"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fcb2689-2074-4f2a-ae6d-5279a320a78a",
+      "code": "IR1002R4",
+      "title": "Cozy Cabin",
+      "description": "Escape to the Cozy Cabin in the picturesque surroundings of Alaska. This charming cabin features a fireplace to keep you warm during chilly nights and offers a stunning mountain view. Bring your furry friend along as it is pet-friendly. Free parking is available for your convenience.",
+      "images": [
+        "https://media.istockphoto.com/id/187062976/photo/generic-home-for-sale.jpg?s=170667a&w=0&k=20&c=jBiF6OePDiHy_EUT6RZvrelr63aJoG32LgEv0uF4wM4="
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bayfront",
+      "address": "5678 Pine Rd",
+      "price": 180,
+      "numOfGuests": 4,
+      "numOfBeds": 2,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["fireplace", "mountain view", "pet-friendly", "free parking"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2aed4d11-9369-4b22-b37c-b6cd40e0eced",
+      "code": "IR1002R4",
+      "title": "Sweet Home",
+      "description": "Welcome to Sweet Home! This cozy and stylish home in Alabama offers a comfortable stay for up to 2 guests. Relax by the pool, enjoy a soak in the hot tub, or unwind in the sauna. With free parking and Wi-Fi, your stay here will be a sweet experience.",
+      "images": [
+        "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1",
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-cap.jpg"
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bishan",
+      "address": "1234 Main St",
+      "price": 250,
+      "numOfGuests": 2,
+      "numOfBeds": 1,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["pool", "hot tub", "sauna", "free parking", "free wifi"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fcb2689-2074-4f2a-ae6d-5279a320a78a",
+      "code": "IR1002R4",
+      "title": "Cozy Cabin",
+      "description": "Escape to the Cozy Cabin in the picturesque surroundings of Alaska. This charming cabin features a fireplace to keep you warm during chilly nights and offers a stunning mountain view. Bring your furry friend along as it is pet-friendly. Free parking is available for your convenience.",
+      "images": [
+        "https://media.istockphoto.com/id/187062976/photo/generic-home-for-sale.jpg?s=170667a&w=0&k=20&c=jBiF6OePDiHy_EUT6RZvrelr63aJoG32LgEv0uF4wM4="
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bayfront",
+      "address": "5678 Pine Rd",
+      "price": 180,
+      "numOfGuests": 4,
+      "numOfBeds": 2,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["fireplace", "mountain view", "pet-friendly", "free parking"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2aed4d11-9369-4b22-b37c-b6cd40e0eced",
+      "code": "IR1002R4",
+      "title": "Sweet Home",
+      "description": "Welcome to Sweet Home! This cozy and stylish home in Alabama offers a comfortable stay for up to 2 guests. Relax by the pool, enjoy a soak in the hot tub, or unwind in the sauna. With free parking and Wi-Fi, your stay here will be a sweet experience.",
+      "images": [
+        "https://www.cbs42.com/wp-content/uploads/sites/81/2019/10/Sweet-Home-Alabama.jpg?strip=1",
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-cap.jpg"
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bishan",
+      "address": "1234 Main St",
+      "price": 250,
+      "numOfGuests": 2,
+      "numOfBeds": 1,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["pool", "hot tub", "sauna", "free parking", "free wifi"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fcb2689-2074-4f2a-ae6d-5279a320a78a",
+      "code": "IR1002R4",
+      "title": "Cozy Cabin",
+      "description": "Escape to the Cozy Cabin in the picturesque surroundings of Alaska. This charming cabin features a fireplace to keep you warm during chilly nights and offers a stunning mountain view. Bring your furry friend along as it is pet-friendly. Free parking is available for your convenience.",
+      "images": [
+        "https://media.istockphoto.com/id/187062976/photo/generic-home-for-sale.jpg?s=170667a&w=0&k=20&c=jBiF6OePDiHy_EUT6RZvrelr63aJoG32LgEv0uF4wM4="
+      ],
+      "email": "edenspaces.testsvc@gmail.com",
+      "district": "Bayfront",
+      "address": "5678 Pine Rd",
+      "price": 180,
+      "numOfGuests": 4,
+      "numOfBeds": 2,
+      "numOfBaths": 1,
+      "maxPax": 4,
+      "amenities": ["fireplace", "mountain view", "pet-friendly", "free parking"],
+      "mrt": "Bishan",
+      "rooms": 4,
+      "roomType": "Premium Common",
+      "availability": "Available from 1 Jan",
+      "roomFeatures": [
+        "Queen bed",
+        "Air condition",
+        "Wardrobe",
+        "Study table & chair",
+        "Balcony",
+        "Private bathroom",
+        "Hot water shower"
+      ],
+      "apartmentFeatures": [
+        "Living / Dining",
+        "Enclosed kitchen",
+        "Yard",
+        "Store room",
+        "Cooker hob",
+        "Oven",
+        "Microwave",
+        "Fridge",
+        "Washer",
+        "Dryer",
+        "Vacuum",
+        "High speed wifi"
+      ],
+      "commonFacilities": [
+        "Pool",
+        "Gym",
+        "Barbecue",
+        "Function room",
+        "Tennis court",
+        "Sky Terrace"
+      ],
+      "carouselItems": [
+        {
+          "Name": "Location",
+          "Caption": "For Rent",
+          "contentPosition": "left",
+          "route": "apple",
+          "Items": [
+            {
+              "Name": "Living Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909158/1-livingroom_xhsgac.jpg"
+            },
+            {
+              "Name": "Master Room",
+              "Image": "https://res.cloudinary.com/kayden/image/upload/v1672909150/1-master_f3dj1n.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
