@@ -27,7 +27,7 @@ const Card = ({ title, description, imgUrl }: CardProps) => {
       </View>
       <ThreeColumnComponent />
       <Button
-        title={"View Now"}
+        title={"View"}
         onPress={() => console.log('')}
       ></Button>
     </View>
@@ -36,6 +36,8 @@ const Card = ({ title, description, imgUrl }: CardProps) => {
 
 const styles = StyleSheet.create({
   container: {
+    top: 120,
+    zIndex: -10,
     borderRadius: 8,
     borderWidth: 1,
     borderColor: "#ddd",
