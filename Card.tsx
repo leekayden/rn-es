@@ -1,6 +1,7 @@
 import React from "react";
 import { View, Text, Image, StyleSheet } from "react-native";
 import ThreeColumnComponent from "./ThreeColumnComponent";
+import Button from "./Button";
 
 interface CardProps {
   title: string;
@@ -18,10 +19,17 @@ const Card = ({ title, description, imgUrl }: CardProps) => {
           }}
           style={styles.image}
         />
-        <Text style={styles.title}>{title}</Text>
+        <Text style={styles.title}>
+          {title}
+          {"\n"}
+        </Text>
         <Text style={styles.street}>123 Test Street</Text>
       </View>
       <ThreeColumnComponent />
+      <Button
+        title={"View Now"}
+        onPress={() => console.log('')}
+      ></Button>
     </View>
   );
 };
@@ -52,7 +60,6 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   street: {
-    position: "relative",
     fontSize: 24,
   },
   description: {
