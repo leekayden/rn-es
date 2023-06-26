@@ -16,9 +16,9 @@ const Navbar = ({ title }: NavbarProps) => {
 const styles = StyleSheet.create({
   container: {
     position: 'absolute',
-    top: 55,
+    top: 0,
     width: "100%",
-    height: 70,
+    height: 90,
     flexDirection: 'row',
     alignItems: 'center',
     backgroundColor: '#cf5e18',
@@ -30,9 +30,10 @@ const styles = StyleSheet.create({
     paddingLeft: 16,
   },
   title: {
-    fontSize: 20,
+    top: 10,
+    fontSize: 24,
     fontWeight: 'bold',
-    color: '#333',
+    color: '#fff',
     textAlign: 'left',
   },
 });

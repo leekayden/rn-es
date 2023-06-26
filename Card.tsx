@@ -41,7 +41,7 @@ const Card = ({ payload }: CardProps) => {
 
 const styles = StyleSheet.create({
   container: {
-    top: 120,
+    top: 90,
     zIndex: -10,
     borderRadius: 8,
     borderWidth: 1,
